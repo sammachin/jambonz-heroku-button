@@ -1,0 +1,8 @@
+{
+    "name": "Jambonz Hello World Websocket",
+    "description": "A Hello World using Jamonz Websocket",
+    "repository": "https://github.com/sammachin/jambonz-herokubutton",
+    "logo": "https://node-js-sample-1234567890ab.herokuapp.com/node.png",
+    "keywords": ["node", "express", "websocket", "jambonz"]
+  }
+  
